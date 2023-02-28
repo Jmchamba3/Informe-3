@@ -41,6 +41,7 @@ Materiales
 7. Sensor LM35
 8. 1 Multimetro
 9. Preset 10K
+
 Procedimiento 
 
 1. Conectar el sensor en el protoboard.
